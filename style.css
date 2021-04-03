@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.main-section {
+    width: 100%;
+    float: left;
+    background-color: rgb(20, 16, 16);
+    padding: 57px 0;
+}
+
+.content-section{
+    width: 50%;
+    float: left;
+    padding: 27px 0px;
+}
+
+.content-section span{
+    color: rgb(57, 167, 57);
+    font-size: 35px;
+}
+
+
+.content-section h2{
+    color: white;
+    font-size: 27px;
+}
+
+.content-section p {
+    color: white;
+    padding: 15px 0px;
+}
+
+.content-section ul{
+    list-style: none;
+}
+
+.content-section ul li {
+    color: white;
+    padding: 4px 0px;
+}
+
+.learn-btn {
+    background: rgb(14, 122, 185);
+    padding: 11px 25px;
+    color: white;
+    border: none;
+    border-radius: 22px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.content-section-2{
+    width: 40%;
+    float: left;
+    padding: 27px 20px;
+    
+}
+
+.register-section {
+    background-color: rgb(29, 166, 201);
+    width: 60%;
+    padding: 25px;
+    border-radius: 9px;
+}
+
+.register-section h2 {
+    color: white;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.register-section p {
+    color: white;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.input-section{
+    
+}
+
+.form-control {
+    width: 95%;
+    padding: 6px;
+    margin-bottom: 4px;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn {
+    background: blue;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 8px;
+    margin-top: 5px;
+}
